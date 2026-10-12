@@ -1,5 +1,4 @@
-<div align="center">
-  <img src="Rose_profile_pic.png" alt="Rose S." width="160" />
+<div>
 
   <h1>Hi, I'm Rose S.</h1>
 
