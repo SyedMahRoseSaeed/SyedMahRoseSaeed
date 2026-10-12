@@ -145,10 +145,6 @@ Dec 2020 - May 2023
   <img src="https://streak-stats.demolab.com?user=SyedMahRoseSaeed&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </div>
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=SyedMahRoseSaeed&theme=tokyonight&no-frame=true&row=1&column=6" alt="GitHub Trophies" />
-</div>
-
 ## Education
 
 **BS Software Engineering**  
